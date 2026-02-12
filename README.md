@@ -1,6 +1,6 @@
 # Multi-Robot Communication & Orchestration (ROS 2 Humble)
 
-**GitHub:** https://github.com/AbiolaArowolo/task3_launcher
+**GitHub:** https://github.com/AbiolaArowolo/Multi-robot-Communication
 
 This repository contains the source code for **Task 3: Heterogeneous Multi-Robot Communication**, developed as part of ongoing research with Assistant Professor Doyun Lee. It demonstrates a bi-directional handshake between a **Clearpath Husky A200** and a **TurtleBot3 Burger** within a namespaced Gazebo simulation.
 
